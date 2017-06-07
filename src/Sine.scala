@@ -16,7 +16,5 @@ object Sine extends SpatialApp {
     }
     
     println("Result: " + getArg(q))
-
-
   }
 }
